@@ -6,6 +6,4 @@ This repository contains the scripts and resources that were used to realize the
 The MIMEco package repository is available `here <https://github.com/Anna-cell/mimeco>`_
 And it documentation at `readthedocs : mimeco <https://github.com/Anna-cell/mimeco>`_
 
-.. image:: /MIMEco_logo_blue.png
-  :width: 500
-  :alt: MIMEco logo
+![MIMEco logo](./MIMEco_logo_blue.png)
